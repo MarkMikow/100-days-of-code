@@ -16,14 +16,15 @@ I am calling my version of 100DaysOfCode 100DaysOfFreeCodeCamp. The reason for t
 
 **Link to work:** Up next: https://www.freecodecamp.org/challenges/confirm-the-ending
 
-### Day 1: 
+### Day 1: July 23, 2017
 
+**Today's Progress**: Completed "Confirm the Ending" from freeCodeCamp's Basic Algorithm Scripting. Also started on creating a website for doing AP-style Calculus problems. I originally wanted to learn computer programming in order to build an App to help students be able to practice AP-style Calculus questions. Today, it has started!
 
-**Today's Progress**: 
+**Thoughts**: I have been practicing a lot recently doing javascript challenges and have not been spending any time doing any HTML and CSS. While learning javascript, I want to continue to practice what I've learned (and learn more!) about HTML and CSS. Thus, I started my Learn Calculus website and can continue building it as I'm learning javascript et al.
 
-**Thoughts**: 
-
-**Link(s) to work**: 
+**Link(s) to work**: Up next:
+1) https://www.freecodecamp.org/challenges/repeat-a-string-repeat-a-string
+2) continue with Calculus Website
 
 
 ### Day 2: 
