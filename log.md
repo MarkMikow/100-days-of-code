@@ -27,7 +27,23 @@ I am calling my version of 100DaysOfCode 100DaysOfFreeCodeCamp. The reason for t
 2) continue with Calculus Website
 
 
-### Day 2: 
+### Day 2: July 24, 2017
+
+**Today's Progress**: Completed Repeat a string, Truncate a string, Chunky Monkey, Slasher Flick, and Mutations from freeCodeCamp's Basic Algorithm Scripting.
+
+I also started "Watch and Code" and completed Version 1 - Arrays.
+
+**Thoughts** I am getting better (and faster) at solving the algorithms!
+
+The goal of the "Watch and Code" tutorial is to build a "Todo App" solely using JavaScript. I will implement what I learn into my Calculus website.
+
+**Link(s) to work**
+1) Continue with fcc's algorithms. Goal for tomorrow is to complete the last 4 of Basic Scripting.
+2) Continue with "Watch and Code"
+3) Continue with Calculus website.
+
+
+### Day 3: 
 
 **Today's Progress**: 
 
