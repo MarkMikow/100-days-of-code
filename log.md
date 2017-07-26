@@ -43,7 +43,17 @@ The goal of the "Watch and Code" tutorial is to build a "Todo App" solely using 
 3) Continue with Calculus website.
 
 
-### Day 3: 
+### Day 3: July 25, 2017
+
+**Today's Progress**: Today I spent 1 1/2 hours playing around with HTML and CSS on my website.  
+
+**Thoughts** I spent most of my time today organizing material for this upcoming year's Calculus class (which doesn't count towards coding, but needs to be done everyday). Not only will the calculus material be organized for school, but this organization will be used for the website.
+
+**Link(s) to work**
+1) Continue with fcc's algorithms. Goal for tomorrow is to complete the last 4 of Basic Scripting.
+2) Continue with "Watch and Code"
+
+### Day 4: 
 
 **Today's Progress**: 
 
