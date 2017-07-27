@@ -53,7 +53,21 @@ The goal of the "Watch and Code" tutorial is to build a "Todo App" solely using 
 1) Continue with fcc's algorithms. Goal for tomorrow is to complete the last 4 of Basic Scripting.
 2) Continue with "Watch and Code"
 
+
 ### Day 4: 
+
+**Today's Progress**: Today I completed Version 2 - Functions of "Watch and Code."
+I also did "Falsey Bouncer", "Seek and Destroy", and "Where Do I Belong" of freeCodeCamp's Basic Algorithm Scripting.
+
+**Thoughts** I learned about the Boolean argument. I could do most of each of the codes, but I searched for help in order to complete them. I did "Where Do I Belong" on my own in way that was completely different than all the examples by others.
+
+I also learned that I can write code in Sublime, then copy and paste it into google chrome browser to play with it!
+
+**Link(s) to work**
+Limited time tomorrow. I would like to complete "Caesar's Cipher", which is the last Basic Algorithm to Script in freeCodeCamp. Also, continue with Watch and Code.
+
+
+### Day 5: 
 
 **Today's Progress**: 
 
