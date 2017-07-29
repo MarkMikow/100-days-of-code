@@ -69,6 +69,30 @@ Limited time tomorrow. I would like to complete "Caesar's Cipher", which is the 
 
 ### Day 5: 
 
+**Today's Progress**: Did Version 2 - Functions on "Watch and Code". Also worked on my Calculus website.
+
+**Thoughts** Limited time today (only an hour!), but I got my coding done!
+
+**Link(s) to work**
+
+
+### Day 6: 
+
+**Today's Progress**: Completed "Caesars Cipher" completely on my own! Also completed the JSON APIs and Ajax section on freeCodeCamp.
+
+**Thoughts** Next up on freeCodeCamp is "Build a Random Quote Machine" - the first of the Intermediate Front End Development Projects.
+
+School is going to start real soon! What I need to concentrate on:
+1) Learning more about using GitHub - making commits, pull requests, etc.
+2) Calculus Website - Derivatives questions with check boxes for multiple choice questions.
+3) Learning Latex and MathJax to put math equations on Calculus website.
+4) Continuing with freeCodeCamp!
+
+**Link(s) to work** https://www.freecodecamp.org/challenges/build-a-random-quote-machine
+
+
+### Day 7: 
+
 **Today's Progress**: 
 
 **Thoughts** 
