@@ -54,7 +54,7 @@ The goal of the "Watch and Code" tutorial is to build a "Todo App" solely using 
 2) Continue with "Watch and Code"
 
 
-### Day 4: 
+### Day 4: July 26, 2017
 
 **Today's Progress**: Today I completed Version 2 - Functions of "Watch and Code."
 I also did "Falsey Bouncer", "Seek and Destroy", and "Where Do I Belong" of freeCodeCamp's Basic Algorithm Scripting.
@@ -67,7 +67,7 @@ I also learned that I can write code in Sublime, then copy and paste it into goo
 Limited time tomorrow. I would like to complete "Caesar's Cipher", which is the last Basic Algorithm to Script in freeCodeCamp. Also, continue with Watch and Code.
 
 
-### Day 5: 
+### Day 5: July 27, 2017
 
 **Today's Progress**: Did Version 2 - Functions on "Watch and Code". Also worked on my Calculus website.
 
@@ -76,7 +76,7 @@ Limited time tomorrow. I would like to complete "Caesar's Cipher", which is the 
 **Link(s) to work**
 
 
-### Day 6: 
+### Day 6: July 28, 2017
 
 **Today's Progress**: Completed "Caesars Cipher" completely on my own! Also completed the JSON APIs and Ajax section on freeCodeCamp.
 
@@ -91,7 +91,39 @@ School is going to start real soon! What I need to concentrate on:
 **Link(s) to work** https://www.freecodecamp.org/challenges/build-a-random-quote-machine
 
 
-### Day 7: 
+### Day 7: July 29, 2017
+
+**Today's Progress**: Started building a random quote machine - the first of freeCodeCamp's Intermediate Front End Development Projects. Very slow going!
+
+**Thoughts** I am going to use what I learn on the project for my Calculus Website. Specifically, generating random questions for each topic.
+
+**Link(s) to work**
+
+
+### Day 8: July 30, 2017
+
+**Today's Progress**: Looked at other random quote machines on CodePen and did a little reverse-engineering, trying to understand how JavaScript works.
+
+**Thoughts** Lots of time spent looking at other people's code and trying to understand it, then applying a little and changing the code to fit my needs.
+I seem to learn coding by looking at other code, then changing it for what I want. After doing this a few times, I am able to then do it on my own - but it takes a while! At first I thought that I was "cheating" but I'm not actually copying the exact code. When I want to create something, I look at similar creations to see how it's done, then after reading through the code, apply what (little) I understand and manipulate it to fit my needs.
+
+**Link(s) to work**
+
+
+### Day 9: July 31, 2017
+
+**Today's Progress**: Spent the morning creating a webpage "Shapes" where I played around a lot, learning how to put div boxes within boxes.
+
+**Thoughts** I need to really understand how to put boxes inside of boxes - this helped tremendously and I can use my own work as a template for the future.
+
+**Link(s) to work**
+I put a link on CodePen, where the triangle shows up on my computer, but not my phone.
+https://codepen.io/markmikow/pen/oexBpZ
+I also made a github repository for it and later added a change using the GUI.
+I need to learn how to use GitHub via the command line!
+
+
+### Day 10: August 1, 2017
 
 **Today's Progress**: 
 
