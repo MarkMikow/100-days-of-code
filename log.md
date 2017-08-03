@@ -125,6 +125,53 @@ I need to learn how to use GitHub via the command line!
 
 ### Day 10: August 1, 2017
 
+**Today's Progress**: Spent hours playing with box sizes using px, em, and % in order to have the png image of the Lucky Buddha on the left hand side of the page. 
+
+**Thoughts** 
+1) Spent way to much time on this, though I did learn through experimenting!
+2) The "Shapes" webpage I made yesterday didn't show up the same on CodePen as it did on my web browser. Specifically, on an iphone, the red triangle showed up as a red square.
+NOTE: look into this later!
+
+**Link(s) to work**
+
+
+### Day 11: August 2, 2017
+
+**Today's Progress**: Finished the Lucky Buddha Quote Generator, apart from installing the twitter icon. 
+
+**Thoughts** I pretty much spent the entire day on this, because the quotes were not showing up. I kept looking at other people's codes and implementing them on my page, but they still didn't work. Finally, I started from scratch by watching a Coding Tutorial's 360 video (3-part) on youtube. I immeditately saw my mistake in the very first line of my script.js. 
+Instead of:
+
+$(document).ready(function() {
+
+I had:
+
+$(document).ready(function()) {
+
+That one extra ) which I hadn't noticed literally caused me hours of not getting the code to work. However, by starting over, I saw where the mistake was! Everything else took little time to complete.
+
+However, once again, the page shows differently when I run the code directly into my browser than when I run it in CodePen (I copy and pasted my code into CodePen). Sometimes, when running it on CodePen, the floral background scene would not appear - the background was completely white. Othertimes, it showed up.
+
+What I am finding is that I want to learn JavaScript better. I am kind of flailing about and I am spending way too much time in my learning process! The Coding Tutorial 360's videos are great and to the point, and take very little time to complete the projects. 
+
+On someone's twitter feed last night (I am writing this on Aug. 3), they stated that they are starting JavaScript 30, so I checked it out and signed up. 30 days of 30 Javascript projects. I am hoping to really get some experience under my belt and understand how to use JavaScript better!
+
+**Link(s) to work**
+https://codepen.io/markmikow/pen/BdjWJo
+
+
+### Day 12: August 3, 2017
+
+**Today's Progress**: 
+1) Learned to create folders on my desktop using the terminal and to move files into the folder via the terminal.
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 13: August 4, 2017
+
 **Today's Progress**: 
 
 **Thoughts** 
