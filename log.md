@@ -174,10 +174,16 @@ https://codepen.io/markmikow/pen/BdjWJo
 
 ### Day 13: August 4, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Built a "Simple Javascript Quiz" with Udemy's "Projects in JavaScript & JQuery."
 
 **Thoughts** What I've learned today:
 1) Write out HTML first, then style it with CSS.
+2) My code did not work! After searching through the help forum, I found this:
+https://codepen.io/RussEby/pen/QwpeEL
+I adjusted my code, but it still didn't work!! So, I copied Russ' code onto a different set of files and it worked. Therefore, there is some mistake somewhere in my code because it should be identical to his. Tomorrow I will go through both codes, line-by-line, and find where I went wrong!
+3) Some of this (the HTML & CSS) was review - good! and some was new. I really like to follow along, and then try coding on my own. I am going to make a simple math quiz project on my own tomorrow!
+4) I checked out JavaScript 30 and it was way over my head - so I am doing the Udemy course instead.
+5) I want to clean up my luckyBuddha app.
 
 **Link(s) to work**
 
