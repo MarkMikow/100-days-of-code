@@ -165,8 +165,9 @@ https://codepen.io/markmikow/pen/BdjWJo
 **Today's Progress**: 
 1) Learned to create folders on my desktop using the terminal and to move files into the folder via the terminal.
 2) I learned how to add, commit, remote add origin, and push all the "luckyBuddha" files (my "quote machine") onto my GitHub repository via the terminal. This is the first time that I have ever done this!
+3) Added the Tweet button to the "Lucky Buddha Quote Generator" (with the help, once again, of Coding Tutorial 360).
 
-**Thoughts** 
+**Thoughts** Still can't get the quote machine to look right on my iphone. 
 
 **Link(s) to work**
 
