@@ -176,6 +176,25 @@ https://codepen.io/markmikow/pen/BdjWJo
 
 **Today's Progress**: 
 
+**Thoughts** What I've learned today:
+1) Write out HTML first, then style it with CSS.
+
+**Link(s) to work**
+
+
+### Day 14: August 5, 2017
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 15: August 6, 2017
+
+**Today's Progress**: 
+
 **Thoughts** 
 
 **Link(s) to work**
