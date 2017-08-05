@@ -190,11 +190,12 @@ I adjusted my code, but it still didn't work!! So, I copied Russ' code onto a di
 
 ### Day 14: August 5, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Started front page of Calculus App from scratch.
 
-**Thoughts** 
+**Thoughts** Today was so much fun! I am so grateful to have found freeCodeCamp just two months ago!
 
 **Link(s) to work**
+https://codepen.io/markmikow/pen/yogOze
 
 
 ### Day 15: August 6, 2017
