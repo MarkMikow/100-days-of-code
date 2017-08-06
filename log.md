@@ -209,6 +209,7 @@ https://codepen.io/markmikow/pen/yogOze
 0) I want to use the terminal as much as possible. I could not get the "Basic Calculator" files to open in sublime via the terminal. I need to get that fixed! This is where I left off of the Udacity Git/GitHub program. At some point, after I get this fixed, I will finish that!
 1) This project was easy, but I liked it because it explained things step by step (as the title states!). I want to use it as a basis to design an iphone-type basic calculator on my own. I want to do as many of these little "mini" projects as I can so that I can reference them later when I am building apps on my own.
 2) I can "play" for hours, like I did today, with the design of a page. This helps me to get more familiar with, and deepen my understanding of, how HTML, CSS, and JavaScript work. I seem to spend a lot of time placing "boxes" in different positions. There is so much to learn! 
+
 **Link(s) to work**
 https://codepen.io/markmikow/pen/yogOze
 
