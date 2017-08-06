@@ -201,6 +201,19 @@ https://codepen.io/markmikow/pen/yogOze
 ### Day 15: August 6, 2017
 
 **Today's Progress**: 
+0) Learned how to create a folder with a space in the name, via the terminal: mkdir Lucky\ Buddha. Also made html, css, & JS files via the terminal (all for today's "Basic Calculator" project).
+1) Built "Basic Calculator" with Udemy's "17 Complete JavaScript Projects Explained Step-by-Step."
+
+**Thoughts** 
+0) I want to use the terminal as much as possible. I could not get the "Basic Calculator" files to open in sublime via the terminal. I need to get that fixed! This is where I left off of the Udacity Git/GitHub program. At some point, after I get this fixed, I will finish that!
+1) This project was easy, but I liked it because it explained things step by step (as the title states!). I want to use it as a basis to design an iphone-type basic calculator on my own.
+
+**Link(s) to work**
+
+
+### Day 16: August 7, 2017
+
+**Today's Progress**: 
 
 **Thoughts** 
 
