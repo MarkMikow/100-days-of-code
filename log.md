@@ -229,5 +229,6 @@ https://markmikow.github.io
 **Today's Progress**: Very little accomplished today in roughly four hours work. I attemted to install buttons and was unsuccessful.
 
 **Thoughts** I have the day off tomorrow, so I can do some more research. At the end of today I found an article on Sitepoint titled "How to Make a Simple JavaScript Quiz." I will read through that in the morning and see how I can adapt it to what I've got.
+I need to redo the questions so that each question contains four choices for answers (A, B, C, & D). Then I can have 4 radio buttons below (labeled A, B, C, & D) which correspond to the answers. In this way, the radio buttons will always contain the same four answers.
 
 **Link(s) to work**
