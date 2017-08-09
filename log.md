@@ -215,8 +215,19 @@ https://codepen.io/markmikow/pen/yogOze
 
 ### Day 16: August 7, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Today was a great day! I was able to add 10 questions and access them at random.
+Also, I created a github pages website! I learned a lot about git and github today!
 
-**Thoughts** 
+**Thoughts** Lots of work to do, such as not repeating questions and installing multiple choice answers.
+
+**Link(s) to work**
+https://markmikow.github.io
+
+
+### Day 17: August 7, 2017
+
+**Today's Progress**: Very little accomplished today in roughly four hours work. I attemted to install buttons and was unsuccessful.
+
+**Thoughts** I have the day off tomorrow, so I can do some more research. At the end of today I found an article on Sitepoint titled "How to Make a Simple JavaScript Quiz." I will read through that in the morning and see how I can adapt it to what I've got.
 
 **Link(s) to work**
