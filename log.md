@@ -224,7 +224,7 @@ Also, I created a github pages website! I learned a lot about git and github tod
 https://markmikow.github.io
 
 
-### Day 17: August 7, 2017
+### Day 17: August 8, 2017
 
 **Today's Progress**: Very little accomplished today in roughly four hours work. I attemted to install buttons and was unsuccessful.
 
@@ -232,3 +232,13 @@ https://markmikow.github.io
 I need to redo the questions so that each question contains four choices for answers (A, B, C, & D). Then I can have 4 radio buttons below (labeled A, B, C, & D) which correspond to the answers. In this way, the radio buttons will always contain the same four answers.
 
 **Link(s) to work**
+
+
+### Day 18: August 9, 2017
+
+**Today's Progress**: Redesigned home page and added a "Limits & Continuity" page. Redid all the questions (not code), added new questions, and put them on the site.
+
+**Thoughts** I am very happy with the way the website looks! I am not concerned about how it looks on a phone - it is (currently) designed for a website. Redesigning the home page and adding a separate page for limits questions gave me the opportunity to practice basic HTML and CSS coding. Much needed and great fun!
+
+**Link(s) to work**
+https://markmikow.github.io
