@@ -242,3 +242,40 @@ I need to redo the questions so that each question contains four choices for ans
 
 **Link(s) to work**
 https://markmikow.github.io
+
+
+### Day 19: August 10, 2017
+
+**Today's Progress**: I fixed a number of mistakes that were on the website and pointed out to me by a student. They weren't coding mistakes, but I needed to change the code the display the corrections. 
+
+**Thoughts** I started back, full-time, at school today so I am not going to have the luxury of being able to code during the daytime, as I have had this past summer. What I am going to count towards the fulfillment of 100DaysofCode is that I spend at least one hour a day working on the website, github, or some other small project, like those in the Udemy JS course. My main intention is to develop the website along side where the students are at in class.
+
+**Link(s) to work**
+https://markmikow.github.io
+
+### Day : August , 2017
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day : August , 2017
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day : August 9, 2017
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
