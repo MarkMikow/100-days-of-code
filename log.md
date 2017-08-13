@@ -253,20 +253,21 @@ https://markmikow.github.io
 **Link(s) to work**
 https://markmikow.github.io
 
-### Day : August , 2017
+### Day 20: August 11, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Woke up at 3 am, excited to put easter eggs in my website! Got up, put them in, then cleaned up code a bit.
 
-**Thoughts** 
+**Thoughts** I want to put an easter egg on every page of Calculus Conqueror. 
 
 **Link(s) to work**
+https://markmikow.github.io
 
 
-### Day : August , 2017
+### Day 21: August 12, 2017
 
-**Today's Progress**: 
+**Today's Progress**: I spent a couple hours attempting to put an alert page, which stated whether the submitted answer was correct or not. I was able to put the radio buttons on, but not able to tie it into the javascript.
 
-**Thoughts** 
+**Thoughts** I posted on Twitter that I need help with JavaScript. Alexander Kallaway replied that codewars.com has been really great for him. I did a few katas last year using Python, so I got back on this afternoon and did a kata with JavaScript. It took me an hour, but I learned a lot!
 
 **Link(s) to work**
 
