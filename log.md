@@ -272,7 +272,81 @@ https://markmikow.github.io
 **Link(s) to work**
 
 
-### Day : August 9, 2017
+### Day 22: August 13, 2017
+
+**Today's Progress**: Worked on katas (levels 8 & 7 kyu's) at Codewars. Great practice for me!
+
+**Thoughts** This is good practice for me - I get real close, but I have to search in order to fully complete each kata. Getting better at searching!
+
+**Link(s) to work**
+
+
+### Day 23: August 14, 2017
+
+**Today's Progress**: Got up at 3:45 am and did an hour of katas at CodeWars before going to school.
+
+**Thoughts** My ideal day would be like today:
+3:45am - Rise & shine!
+4-5am - Yoga & Meditation
+5-6am - Coding
+6-7am - Shower & Breakfast
+7am - Leave for school / work
+
+**Link(s) to work**
+
+
+### Day 24: August 15, 2017
+
+**Today's Progress**: Just able to get in an hour at CodeWars. 
+
+**Thoughts** Did 2 katas in the hour. One was easy & one was difficult. With school starting, it's a little more difficult to find time to code :(  I miss these past weeks where I could stay at home and code at my convenience. I was spoiled!
+
+**Link(s) to work**
+
+
+### Day 25: August 16, 2017
+
+**Today's Progress**: Did an hour of jQuery exercises at Codecademy.
+
+**Thoughts** Although working through the katas at CodeWars has been good, it's not really helping me to be able to tie in the radio buttons to the javascript. Maybe I need to learn jQuery, which is why I switched over to Codecademy today.
+
+**Link(s) to work**
+
+
+### Day 26: August 17, 2017
+
+**Today's Progress**: I updated my personal portfolio page for 30 Days 30 Sites.
+
+**Thoughts** I signed up for 30 Days 30 Sites a week ago and haven't done anything. This morning I received an email from them asking how it was going. I thought that they might drop me since I haven't done anything with them, so I worked on my portfolio (for about 3 hours) that I did for freeCodeCamp, and updated it.
+
+**Link(s) to work** https://codepen.io/markmikow/pen/MvrJaX
+
+
+### Day 27: August 18, 2017
+
+**Today's Progress**: Continued with jQuery exercises at Codecademy.
+
+**Thoughts** I was able to get in my hour of coding at school today during my prep period!
+
+**Link(s) to work**
+
+
+### Day 28: August 19, 2017
+
+**Today's Progress**: Coded along with some videos for making a quiz app.
+
+**Thoughts** For my calculus app, I need to:
+1) tie in the radio buttons
+2) add "Definition of Derivative" topic and questions
+3) move all the questions to a back-end data bank.
+
+I spent an hour coding along with a video on youtube, but the video was lacking certain information to complete the app. I then found another video and watched it - I think it will work. It will work for the user to text in the answer. I will code tomorrow with the intention of adjusting what I learn from the video, so that the app will work with radio buttons.
+
+**Link(s) to work** This is the link to the video I will use for help:
+https://www.youtube.com/watch?v=JiAEq9zOpHQ&t=413s
+
+
+### Day : August , 2017
 
 **Today's Progress**: 
 
