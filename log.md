@@ -346,6 +346,16 @@ I spent an hour coding along with a video on youtube, but the video was lacking 
 https://www.youtube.com/watch?v=JiAEq9zOpHQ&t=413s
 
 
+### Day 29: August 20, 2017
+
+**Today's Progress**: Very little! 
+
+**Thoughts** I spent hours today reading tutorials and watching videos on making a quiz app and tying in radio buttons. There are so many ways to make an app, though none of the examples I read or saw was like what I am trying to do. At the very end I was able to make an alert box appear. I need to have it state whether the question was answered correctly or not, which will be my next step, using only one question (rather than multiple random ones). One step at a time!
+
+**Link(s) to work**
+
+
+
 ### Day : August , 2017
 
 **Today's Progress**: 
@@ -353,4 +363,3 @@ https://www.youtube.com/watch?v=JiAEq9zOpHQ&t=413s
 **Thoughts** 
 
 **Link(s) to work**
-
