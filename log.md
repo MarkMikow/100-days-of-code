@@ -355,6 +355,26 @@ https://www.youtube.com/watch?v=JiAEq9zOpHQ&t=413s
 **Link(s) to work**
 
 
+### Day 30: August 21, 2017
+
+**Today's Progress**: Worked on attempting to install radio buttons, but with no success! 
+
+**Thoughts** I got up at 3 this morning, so was able to get in about an hour and a half of coding before school.
+
+**Link(s) to work**
+
+
+### Day 31: August 22, 2017
+
+**Today's Progress**: BREAKTHROUGH! Was finally able to install radio buttons while coding before school. After I got off work, I was able to get the radio buttons to reset when a new question is called.
+
+**Thoughts** I have spent around a week trying to get radio buttons on my web app. Today I finally did it! It has taken a bit of time, but I have learned so much about javascript and jQuery. I also am aware that I have a ton more to learn!
+At some point, I am going to need to go through my javascript file because there is much repeated code. The app is working, so I am leaving it be, but I need to learn how to make it functions with less code.
+Also, I need to style the alert windows, so that they look much "cooler" than they currently do.
+
+**Link(s) to work**
+https://markmikow.github.io
+
 
 ### Day : August , 2017
 
