@@ -376,6 +376,25 @@ Also, I need to style the alert windows, so that they look much "cooler" than th
 https://markmikow.github.io
 
 
+### Day 32: August 23, 2017
+
+**Today's Progress**: Changed the javascript alert boxes to Sweet Alert boxes for when the user gets the correct answer.
+
+**Thoughts** This was easy to do, yet every tutorial I read left things out. If I were a more experienced programmer, I think I would have been able to fill in the missing pieces. However, I'm still a beginner and it took reading tutorials and watching youtube videos to put together the missing pieces. Once I got it, it took only a couple minutes to make a Sweet Alert box. But it took me over an hour to get it.
+
+**Link(s) to work**
+https://markmikow.github.io
+
+
+### Day 33: August 24, 2017
+
+**Today's Progress**: I spent around an hour fixin mistakes I had made in the app. This involved redoing math problems, redoing the code, and doing the whole git process to update the website.
+
+**Thoughts** Yikes! I made a lot of mistakes in the math! But I'm taking the attitude to sift through the math, find the mistakes and fix them, just like I would when I make mistakes in coding. However, I need to be more careful in the future with each new topic. 
+
+**Link(s) to work**
+https://markmikow.github.io
+
 ### Day : August , 2017
 
 **Today's Progress**: 
