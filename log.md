@@ -395,6 +395,37 @@ https://markmikow.github.io
 **Link(s) to work**
 https://markmikow.github.io
 
+
+### Day 34: August 25, 2017
+
+**Today's Progress**: Began Colt Steele's Web Developer Bootcamp on Udemy.
+
+**Thoughts** I didn't have anything to do on my website today, because I haven't yet writtent the Definition of the Derivative questions to post on it. Therefore, I started Colt Steele's Web Developer Bootcamp on Udemy to do when I don't have anything to do on my website.
+
+**Link(s) to work**
+
+
+### Day 35: August 26, 2017
+
+**Today's Progress**: Added Definition of Derivative page to the website.
+
+**Thoughts** HOWEVER! The Limits & Continuity questions now load the wrong answers as the correct ones, so I have temporarily taken them off.
+
+**Link(s) to work**
+https://markmikow.github.io
+
+### Day 36: August 27, 2017
+
+**Today's Progress**: Fixed the Limits & Continuity bug - simply put, I was calling different functions (for Limits & Continuity questions and for Definition of the Derivative questions) by the same name. Once I realized this, I went through and changed various names, such as "answersA" for Limit answers and "answersB" for Def of Der answers. It still didn't completely work. I finally created two javascript pages - one for limits.html and one for defOfDer.html. I don't know if you're really supposed to do this, but it worked perfectly!
+Later in the day, I added a bootstrap navbar on top to navigate to previous and next topics.
+I also added a "dummy" page for the next topic (Basic Derivatives).
+
+**Thoughts** I learned a lot today about calling functions. I'm glad I made yesterday's mistake - I learn alot by making mistakes, then googling how to fix them, and then fix them!
+When I get finished with creating this version of the website, I need to go through the code, line-by-line, and clean it up!
+
+**Link(s) to work**
+https://markmikow.github.io
+
 ### Day : August , 2017
 
 **Today's Progress**: 
